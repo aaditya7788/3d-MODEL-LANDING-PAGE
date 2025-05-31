@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/aaditya7788/3d-MODEL-LANDING-PAGE/main/public/logo.png" alt="3D Model Logo" width="100" height="100" />
 </p>
@@ -51,9 +52,8 @@ The **3D Model Landing Page** is a futuristic, eye-catching interface that integ
 ## 🖼️ Preview
 
 <p align="center">
-  <iframe src="https://3d-model-landing-page-three.vercel.app" width="100%" height="500px" style="border: none; border-radius: 12px;"></iframe>
+  <img src="https://raw.githubusercontent.com/aaditya7788/3d-MODEL-LANDING-PAGE/main/public/images/preview.png" alt="Preview" width="100%" />
 </p>
-
 ---
 
 ## ⚙️ Getting Started
