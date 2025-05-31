@@ -3,7 +3,7 @@ import Header from "./Components/Header";
 import Hero from "./Components/Hero";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import Footer from "./Components/footer";
+import Footer from "./Components/Footer";
 
 export default function App() {
   useEffect(() => {
